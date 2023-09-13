@@ -2,7 +2,7 @@
 
 I am beginning website developer
 
-####Software
+#### Software
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="28px" height="28px">
@@ -14,7 +14,7 @@ I am beginning website developer
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" alt="rider" width="28px" height="28px">
 </a>
 
-####Languages
+#### Languages
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="28px" height="28px"/> 
